@@ -45,7 +45,7 @@
 -------------------------------------------------------------------*/
 /*------------------------------------------------------------------
 [ Color codes ]
-    
+
     [ Text and Background Color ]
         Main color 1:       #aa49de (purple)    [ Gradient color 1 ]
         Main color 2:       #4954de (blue)      [ Gradient color 2 ]
@@ -66,7 +66,7 @@
 
     [Background color ]
         2. Light:           #FFFFFF;
-    
+
     [ Shadow color ]
         shadow-color:       rgba(0, 0, 0, 0.12);
 
@@ -92,7 +92,7 @@
         Typography 2: Rayeway and Poppins font;
         Typography 3: Montserrat and Roboto font;
         Typography 4: Exo and Poppins font;
-    
+
     [ Other Typography style are same ]
     Body :
         font-style:     normal;
@@ -113,7 +113,7 @@
         font-style:     normal;
         font-size:      35px;
 
-    p:  
+    p:
         font-style:     normal;
         font-size:      15px;
 
@@ -126,7 +126,7 @@
 -------------------------------------------------------------------*/
 /**
  * ===============================
- *  Defult CSS 
+ *  Defult CSS
  * ===============================
  */
 body {
@@ -322,7 +322,7 @@ section.section {
 }
 /**
  * ===============================
- *  Section Top and Bottom padding  
+ *  Section Top and Bottom padding
  * ===============================
  */
 .section-separator {
@@ -661,12 +661,12 @@ section.section {
 .p-l-50 {
   padding-left: 50px;
 }
-/** 
+/**
  * ======================
  * Social Icon Style
  * ======================
  */
-/** 
+/**
  * ======================
  * Social Icon Style
  * ======================
@@ -773,7 +773,7 @@ section.section {
 }
 /**
  * =========================
- * Form Style 
+ * Form Style
  * =========================
  */
 .single-form {
@@ -962,7 +962,7 @@ section.section {
   }
   /**
      * ===============================
-     *  Defult CSS 
+     *  Defult CSS
      * ===============================
      */
   html *,
@@ -1331,11 +1331,11 @@ section.section {
 }
 /**
  * ========================================
- * Home Section Style
+ * Home Section Style background-1.jpg
  * ========================================
  */
 .bg-image-1 {
-  background: url('../images/background-1.jpg');
+  background: url('../images/');
   -o-background-size: cover;
   -ms-background-size: cover;
   -moz-background-size: cover;
@@ -2031,11 +2031,11 @@ section.section {
 }
 /**
  * ========================================
- * Contact Section Style
+ * Contact Section Style background-1.jpg
  * ========================================
  */
 .bg-image-2 {
-  background: url('../images/background-1.jpg');
+  background: url('../images/');
   -o-background-size: cover;
   -ms-background-size: cover;
   -moz-background-size: cover;
@@ -3564,7 +3564,7 @@ section.section {
   -webkit-transition-delay: 1s ;
   transition-delay: 1s ;
 }
-/* Active Style 
+/* Active Style
  * When add this active class then work this style */
 .owl-item.active .each-portfolio-heading {
   /* Heading Title Style */
